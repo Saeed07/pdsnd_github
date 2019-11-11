@@ -2,7 +2,7 @@
 11-11-2019
 
 ### Project Title
-Analysis for bikeshare data
+Analysis for bikeshare data for US cities
 
 ### Description
 This is part of Udacity Python foundation course that uses knowledge of Python's modules- Pandas and Numpy, 
