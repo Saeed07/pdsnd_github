@@ -38,7 +38,7 @@ while True:
     if day = ('monday','tuesday','wednesday','thursday','friday','saturday','all').lower()
     break 
 else 
-day= input("enter anthor day").lower()\n" 
+day= input('enter anthor day').lower()\n" 
     
 
 
