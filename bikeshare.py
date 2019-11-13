@@ -38,7 +38,7 @@ while True:
     if day = ('monday','tuesday','wednesday','thursday','friday','saturday','all').lower()
     break 
 else 
-day= input("enter anthor day").lower()\n" 
+day= input('enter anthor day').lower()\n" 
     
 
 
@@ -78,7 +78,7 @@ df= pd.read_csv(city_data[city])\n"
     if month != 'all'\n"
     month = ['january','february','march','april','may','june']\n"
     month = index.month(month) + 1 \n",
-    month= input ( 'try again' ) 
+    month= input ( 'try again' ) \n,
     df=df.loc(df['month']== month,:)
     if day of week != 'all'
     df=df[df["day of week"]= day of week.title()]
